@@ -1,0 +1,6 @@
+[
+  { "id": 1, "type": "丢失", "title": "黑色钱包", "location": "图书馆", "time": "2025-01-10", "description": "内有学生证和现金" },
+  { "id": 2, "type": "捡到", "title": "U盘 金士顿32G", "location": "教学楼A301", "time": "2025-01-11", "description": "蓝色外壳" },
+  { "id": 3, "type": "丢失", "title": "校园卡", "location": "食堂二楼", "time": "2025-01-12", "description": "学号2024开头" },
+  { "id": 4, "type": "捡到", "title": "雨伞 黑色折叠", "location": "图书馆门口", "time": "2025-01-12", "description": "" }
+]

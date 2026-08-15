@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "第一食堂", "location": "东校区", "rating": 4.2, "tags": ["自选", "快餐"], "image": "" },
+  { "id": 2, "name": "第二食堂", "location": "西校区", "rating": 4.0, "tags": ["面食", "小炒"], "image": "" },
+  { "id": 3, "name": "第三食堂", "location": "北校区", "rating": 3.8, "tags": ["麻辣烫", "盖饭"], "image": "" },
+  { "id": 4, "name": "教工食堂", "location": "中心区", "rating": 4.5, "tags": ["自助", "点菜"], "image": "" }
+]

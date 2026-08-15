@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-800 antialiased;
+  }
+}
+
+/* ====== FeatureCard 淡入动画 ====== */
+@keyframes featureFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.feature-card-fade {
+  opacity: 0;
+  animation: featureFadeIn 0.6s ease-out forwards;
+}
+
+/* ====== 收藏按钮点击缩放动画 ====== */
+@keyframes favPop {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.fav-btn:active {
+  animation: favPop 0.3s ease-out;
+}

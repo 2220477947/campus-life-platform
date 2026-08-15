@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "高等数学（第七版）", "price": 25, "category": "教材", "seller": "学长A", "image": "" },
+  { "id": 2, "title": "机械键盘 Cherry MX", "price": 150, "category": "电子", "seller": "同学B", "image": "" },
+  { "id": 3, "title": "台灯 LED 护眼", "price": 45, "category": "生活", "seller": "学姐C", "image": "" },
+  { "id": 4, "title": "Python编程从入门到实践", "price": 30, "category": "教材", "seller": "学长D", "image": "" },
+  { "id": 5, "title": "蓝牙耳机 AirPods", "price": 200, "category": "电子", "seller": "同学E", "image": "" },
+  { "id": 6, "title": "床上小桌板", "price": 35, "category": "生活", "seller": "学姐F", "image": "" }
+]
